@@ -8,6 +8,7 @@ The script uses
     * useful naming scheme: `<Artist> - <Song>.mp3`
       * Reasonably rename files afterwords if artist name is missing.
     * metadata and thumbnail embedding
+  * cookies from Firefox for quality and speed enhancement
 
 ## Use the script
 ```sh
