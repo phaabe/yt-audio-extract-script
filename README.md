@@ -7,6 +7,7 @@ The script uses
     * optimal audio quality
     * useful naming scheme: `<Artist> - <Song>.mp3`
       * Reasonably rename files afterwords if artist name is missing.
+    * metadata and thumbnail embedding
 
 ## Use the script
 ```sh
